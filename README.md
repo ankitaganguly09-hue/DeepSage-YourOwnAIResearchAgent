@@ -391,29 +391,6 @@ OPENAI_API_KEY="your_key"
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-Steps:
-
-```bash
-Fork the repository
-Create a feature branch
-Commit changes
-Open a pull request
-```
-
-Areas where help is appreciated:
-
-* New agents
-* Better scraping
-* UI improvements
-* Research workflows
-* Evaluation systems
-
----
-
 # 📄 License
 
 MIT License
